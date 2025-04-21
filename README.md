@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmaTlmNnJwcDRvcmNrcDMzdGh0NGg1cm15OGM2dG5xY3B1aWpleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzrURBhy90gDUU7iBL/giphy.gif"  />
 </div>
+
 # Hi!, I'm Astro, a passionate Developer 👋🏼:
 🚀 currently working on my own [webpage](https://uiastro.vercel.app/)<br>🤝 I’m looking to collaborate on making AI Agents.<br>👨🏼‍💻 i love working as a web developer <br>📫 How to reach me danieljosephat@gmail.com
 
