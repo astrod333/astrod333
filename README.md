@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
 
-🚀 currently working on my own [webpage](https://uiastro.vercel.app/)<br>🤝 I’m looking to collaborate on making AI Agents.<br>👨🏼‍💻 i love cool shit <br>📫 How to reach me danieljosephat@gmail.com
+A freelance web developer. I specialize in creating fast, responsive, and interactive websites, as well as web applications, e-commerce platforms, and landing pages.
 
 ##
 In your terminal:
