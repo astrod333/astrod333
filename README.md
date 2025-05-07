@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
 
-- 🔭 I’m currently working as a Frontend Software Engineer!
+- <img
+        src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+        width="35"
+      /> I’m currently working as a Frontend Software Engineer!
 - 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
 
 ##
