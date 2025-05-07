@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
 
-A freelance web developer. I specialize in creating fast, responsive, and interactive websites, as well as web applications, e-commerce platforms, and landing pages.
+- 🔭 I’m currently working as a Frontend Software Engineer!
+- 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
 
 ##
 In your terminal:
