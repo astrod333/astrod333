@@ -3,7 +3,7 @@
 - <img
         src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
         width="35"
-      /> I’m currently working as a Frontend Software Engineer!
+      /> Creative coder and self-proclaimed designer who specializes in front-end development.
 - 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
 
 ##
