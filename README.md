@@ -12,18 +12,25 @@ In your terminal:
 npx hi-mollel
 ```
 
-# 💻 Tech Stack:
-<div align="center">
-  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
-  <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vite" />
-  <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
-  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=nodejs" />
-  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=express" />
-  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=mongo" />
-  <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
-</div>
+### 🛠️ Technical Skills
+
+```javascript
+const skills = {
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  frameworks: ["React", "Next.js", "React Native"],
+  libraries: ["React Three Fiber", "Framer Motion", "GSAP"],
+  tools: ["Git", "VS Code", "Figma"],
+  practices: ["Responsive Design", "Performance Optimization", "UI/UX"]
+};
+```
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</p>
 
 # 🌐 About Me:
 I have a knack of creating pretty websites and explore latest tech. Additionally, I love building AI tools that assist developers like me. Beyond code, I am all about communities, sharing knowledge and innovating together. If it sparks your interest, let's connect and explore how we can create something amazing together!
