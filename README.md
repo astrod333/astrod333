@@ -1,11 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
 
-- <img
-        src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-        width="35"
-      /> Creative coder and self-proclaimed designer who specializes in front-end development.
-- 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
-
 ##
 In your terminal:
 ```bash
