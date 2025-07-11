@@ -9,10 +9,10 @@ npx hi-mollel
 
 ```javascript
 const skills = {
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Next.js", "React Native"],
+  Languages & Frameworks: ["JavaScript (ES6+", "TypeScript", "React", "Next.js"],
+  Styling & Design: ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma"],
   libraries: ["React Three Fiber", "Framer Motion", "GSAP"],
-  tools: ["Git", "VS Code", "Figma"],
+  Backend & Tools: ["Node.js", "Express", "Convex", "Supabase", "Git", "MongoDB" ],
   practices: ["Responsive Design", "Performance Optimization", "UI/UX"]
 };
 ```
