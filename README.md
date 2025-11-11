@@ -20,9 +20,3 @@ const skills = {
 
 ### 🌐 About Me:
 I have a knack of creating pretty websites and explore latest tech. Additionally, I love building AI tools that assist developers like me. Beyond code, I am all about communities, sharing knowledge and innovating together. If it sparks your interest, let's connect and explore how we can create something amazing together!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrod333/astrod333/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrod333/astrod333/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/astrod333/astrod333/output/pacman-contribution-graph.svg">
-</picture>
