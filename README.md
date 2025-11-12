@@ -19,4 +19,4 @@ const skills = {
 ---
 
 ### 🌐 About Me:
-I have a knack of creating pretty websites and explore latest tech. Additionally, I love building AI tools that assist developers like me. Beyond code, I am all about communities, sharing knowledge and innovating together. If it sparks your interest, let's connect and explore how we can create something amazing together!
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
