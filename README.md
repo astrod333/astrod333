@@ -20,3 +20,7 @@ const skills = {
 
 ### 🌐 About Me:
 Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
