@@ -3,8 +3,7 @@
 ### Terminal Access
 
 ```bash
-$ npx hi-mollel
-> Executing profile sequence...
+npx hi-mollel
 ```
 
 ### Tech Stack
