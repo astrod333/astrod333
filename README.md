@@ -1,23 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
+# Astro
 
-### Terminal Access
+Full-stack engineer building web and mobile apps that are fast, useful, and ideally free of surprise features.
 
-```bash
-npx hi-mollel
-```
+Currently building [Maokoto](https://maokoto.app).
 
-### Tech Stack
+## Stack
 
 ```typescript
-const profile = {
-  role: "Full Stack Engineer",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind", "Node.js"],
-  vibe: "Building cool stuff"
-};
+const stack = ["TypeScript", "React", "Next.js", "Node.js", "Tailwind CSS"];
 ```
----
-
-### About Me:
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
