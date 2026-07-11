@@ -7,5 +7,8 @@ Currently building [Maokoto](https://maokoto.app).
 ## Stack
 
 ```typescript
-const stack = ["TypeScript", "React", "Next.js", "Node.js", "Tailwind CSS"];
+const stack = [
+  "TypeScript", "React", "Next.js", "Svelte", "Expo", "React Native",
+  "Node.js", "PostgreSQL", "Tailwind CSS"
+];
 ```
